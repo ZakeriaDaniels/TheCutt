@@ -1,0 +1,17 @@
+body{
+    background-color: darkblue;
+}
+h1,h3{
+    text-align: center;
+    color: gold;
+}
+.card{
+    margin-bottom: 20px;
+    display: flex;
+    margin-left: 20px;
+}
+.flex-container{
+    display: flex;
+    height: 100vh;
+    flex-wrap: wrap;
+}
